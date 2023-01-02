@@ -1,7 +1,7 @@
 Hand Gesture Recognition using Web Camera
 =========================================
 
-A Qt based gui for hand gesture recognition using OpenCV.
+A Qt based gui for hand gesture recognition using OpenCV adapted from https://github.com/dgurung/hand_gesture_recognition_LCCS
 
 
 Methods used:
@@ -27,5 +27,3 @@ References:
 -----------
 1. Efficient Skin Detection Under Severe Illumination Changes and Shadows,B. Khanal, D. Sidibe, ICIRA 2011. 
 http://link.springer.com/chapter/10.1007%2F978-3-642-25489-5_59
-
-2. https://github.com/dgurung/hand_gesture_recognition_LCCS
